@@ -1,4 +1,5 @@
 print('Hello, I am new to github! Nice to meet u')
+print('Nice to meet u')
 while True:
 	print('May I know your name ?')
 	q = input('Y/N: ')
